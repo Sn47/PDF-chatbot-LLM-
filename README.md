@@ -55,6 +55,7 @@ sequenceDiagram
 ### Frontend Options
 
 #### 🖥️ PyQt5 Desktop App
+![WhatsApp Image 2024-07-16 at 13 27 12_67928848](https://github.com/user-attachments/assets/a754ed38-deda-458a-9b89-6d10e828fd66)
 - Native system integration
 - Real-time updates
 - System file dialogs
@@ -62,6 +63,7 @@ sequenceDiagram
 - In-memory state management
 
 #### 🌐 Streamlit Web App
+![Screenshot 2025-02-06 at 12 38 35 AM](https://github.com/user-attachments/assets/56b7fd57-e038-4f3e-90f8-50c775cde33e)
 - Browser-based interface
 - Session state persistence
 - Reactive components
